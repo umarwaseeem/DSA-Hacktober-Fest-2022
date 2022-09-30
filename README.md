@@ -1,9 +1,6 @@
 # Hacktober-Fest-2022 💻👩‍💻🚀
 
-- Follow on Linkedin: <a href="https://www.linkedin.com/in/umarwaseem/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
-
-- Follow on Medium: <a href="https://medium.com/@umar.waseem" target="blank"><img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
-
+### `Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors.`
 
 
 
@@ -80,6 +77,13 @@ Contributing for the first time? I got you 😀
 ## Having trouble? Ask in discussions:
 
 <a href = "https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022/discussions" >Discussions</a>
+
+
+- Follow on Linkedin: <a href="https://www.linkedin.com/in/umarwaseem/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
+
+- Follow on Medium: <a href="https://medium.com/@umar.waseem" target="blank"><img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
+
+
 
 ## Get yourself featured here as an Open Source Contributor 🎉🙌:
 
