@@ -1,4 +1,4 @@
-# Hacktober-Fest-2022
+# Hacktober-Fest-2022 💻👩‍💻🚀
 This is a repository to participate in hacktober fest 2022 and learn about using github as an open source tool.
 
 - Are you a beginner ?
@@ -6,7 +6,7 @@ This is a repository to participate in hacktober fest 2022 and learn about using
 - Do you know how to code?
 - Or you dont know how to code?
 
-## Even if you are anyone of the above, you can participate.
+## Even if you are anyone of the above, you can still participate / contribute. 🥳
 
 
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--lGJu31oG--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
@@ -17,7 +17,7 @@ On participating in hacktober fest and being in the first `40000` contributors t
 - Either a tree planted in your name
 - Or a hacktober fest T-Shirt
 
-## What to contribute?
+## What to contribute? 🤔
 
 Literally anything, including 
 - your `name`,
@@ -29,7 +29,7 @@ Literally anything, including
 - some `project of yours` etc.
 
 
-## How to contribute?
+## How to contribute? 🤝
 
 - `Fork` this repo.
 - `Write into a file` of proper category: <br/> For example, if you're interested in writing your name, go to `names` folder. If a folder for your category doesnot exist, create a folder for that category with a proper name.
@@ -45,12 +45,12 @@ Contributing for the first time? I got you 😀
 
 <img src ="images/fork.jpg" >
 
-- Write what you want in the proper file.<br/>
-    Two ways to write:
+- Write what you want in the proper file.<br/><br/>
+    Two ways to write: <br/>
   - Clone the repo or download the zip folder and write into it. (download the code)
-  - Press dot on the main page of the forked repository on your account, `VS Code Web` will open and then write into it.
-- Once you are done writing, add the necessary files with `➕ button` in github or use `git add --all`.
-- Then commit the files using the `✔ button` in vs code or use command `git commit -m "message"` command where in `message`, you will write a message about whatever you added.
+  - Press dot on the main page of the forked repository on your account, `VS Code Web` will open and then write into it.<br/><br/>
+- Once you are done writing, add the necessary files with `➕ button` in github or use `git add --all`.<br/><br/>
+- Then commit the files using the `✔ button` in vs code or use command `git commit -m "message"` command where in `message`, you will write a message about whatever you added.<br/><br/>
 
 <img src = "images/vsCode.png">
 
@@ -64,12 +64,12 @@ Contributing for the first time? I got you 😀
 
 - You will be redirected to the pull requests tab of this repo. Add a title for your pull request and a little description.
 
-## Things to note:
+## Things to note ✏:
 
 - Make sure you dont change some one else's added commits.
 - Be respectful and make sure you dont add any offensive content.
 
-## Get yourself featured here as an Open Source Contributor:
+## Get yourself featured here as an Open Source Contributor 🎉🙌:
 
 <a href="https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Umar-Waseem/Contribute-Hacktober-Fest-2022" />
