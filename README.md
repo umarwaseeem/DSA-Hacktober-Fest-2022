@@ -43,7 +43,7 @@ Contributing for the first time? I got you 😀
 
 - `Fork` the repo. (a copy of this repo will be made on your account).
 
-<img src ="fork.jpg" >
+<img src ="images/fork.jpg" >
 
 - Write what you want in the proper file.<br/>
     Two ways to write:
@@ -52,15 +52,15 @@ Contributing for the first time? I got you 😀
 - Once you are done writing, add the necessary files with `➕ button` in github or use `git add --all`.
 - Then commit the files using the `✔ button` in vs code or use command `git commit -m "message"` command where in `message`, you will write a message about whatever you added.
 
-<img src = "vsCode.png">
+<img src = "images/vsCode.png">
 
 - Go to the main page of your forked repo on your account. You will see a `Compare And Pull Request` button. Click that. 
 
-<img src = "compareandpull.png" >
+<img src = "images/compareandpull.png" >
 
 - Go to `Pull requests` tab if you dont see the button mentioned.
 
-<img src = "pRequestTab.png" >
+<img src = "images/pRequestTab.png" >
 
 - You will be redirected to the pull requests tab of this repo. Add a title for your pull request and a little description.
 
