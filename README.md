@@ -77,6 +77,10 @@ Contributing for the first time? I got you 😀
 - Make sure you dont change some one else's added commits.
 - Be respectful and make sure you dont add any offensive content.
 
+## Having trouble? Ask in discussions:
+
+<a href = "https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022/discussions" >Discussions</a>
+
 ## Get yourself featured here as an Open Source Contributor 🎉🙌:
 
 <a href="https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022/graphs/contributors">
