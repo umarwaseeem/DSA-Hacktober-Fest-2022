@@ -1,4 +1,12 @@
 # Hacktober-Fest-2022 💻👩‍💻🚀
+
+- Follow on Linkedin: <a href="https://www.linkedin.com/in/umarwaseem/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
+
+- Follow on Medium: <a href="https://medium.com/@umar.waseem" target="blank"><img src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
+
+
+
+
 This is a repository to participate in hacktober fest 2022 and learn about using github as an open source tool.
 
 - Are you a beginner ?
