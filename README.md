@@ -25,7 +25,7 @@ For example: I have added a linked list and its related operations in C++ folder
 - `Fork` this repo.
 - `Write into a file` of proper category: <br/> 
 - `Push the changes`with commit messages on whatever you added.
-- `Compare And Pull Request`
+- `Compare And Pull Request` with proper description and title.
 -  Wait for me to `review` and `merge` your contribution.
 
 ## How to make a pull request? (for first timers - beginners)
@@ -59,6 +59,7 @@ Contributing for the first time? I got you 😀
 
 - Make sure you dont change some one else's added commits.
 - Be respectful and make sure you dont add any offensive content.
+- Do write a brief `description` and proper `title` for your pull request.
 
 ## Having trouble? Ask in discussions:
 
