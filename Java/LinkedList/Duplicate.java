@@ -56,53 +56,6 @@ tail = node;
 tail.next = null;
 }
 
-
-public Node middle()
-{
-   Node s = head;
-   Node f = head;
-
-  while(f!=null && f.next!=null)
-  {
-     f = f.next.next;
-     s = s.next;
-  }
-
-    return s;
-
-}
-
-public void deltefirst()
-{
-  
-    Node p = head;
-
-    head = head.next;
-
-    p = null;
-    
-}
-
-    public Node deleteMiddle()
-    {
-
-        if(head==null && head.next==null)
-            return null;
-
-        Node s = head;
-        Node f = head;
-        Node prev = null;
-
-        while(f!=null && f.next!=null)
-        {
-            f = f.next.next;
-            prev = s;
-            s = s.next;
-        }
-        prev.next = s.next;
-        return head;
-    }
-
 public static void main(String[] args) {
     
     Duplicate D = new Duplicate();
@@ -119,8 +72,7 @@ public static void main(String[] args) {
 
    D.display();
    
-   D.deltefirst();
-
+ d.dup();
   
    D.display();
 
