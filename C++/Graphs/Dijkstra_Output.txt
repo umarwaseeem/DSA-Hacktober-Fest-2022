@@ -1,0 +1,21 @@
+Enter the number of vertices and edges: 6
+7
+Enter the edges with weigth: <source> <destination> <weigth>: 
+0 1 1
+1 2 3
+1 4 5
+3 4 7
+4 5 9
+5 3 8
+0 3 3
+Enter the source node: 1
+Node 1, min weight = 0
+Node 2, min weight = 3
+Node 3, min weight = 12
+Node 4, min weight = 5
+Node 5, min weight = 14
+Node 6, min weight = 1048576
+ 
+------------------
+(program exited with code: 0)
+Press return to continue
