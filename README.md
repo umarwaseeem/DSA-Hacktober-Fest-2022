@@ -73,8 +73,8 @@ Contributing for the first time? I got you 😀
 
 ## Get yourself featured here as an Open Source Contributor 🎉🙌:
 
-<a href="https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Umar-Waseem/Contribute-Hacktober-Fest-2022" />
+<a href="https://github.com/Umar-Waseem/DSA-Hacktober-Fest-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Umar-Waseem/DSA-Hacktober-Fest-2022" />
 </a>
 
 
