@@ -6,41 +6,27 @@
 
 This is a repository to participate in hacktober fest 2022 and learn about using github as an open source tool.
 
-- Are you a beginner ?
-- Are you an expert ?
-- Do you know how to code?
-- Or you dont know how to code?
-
-## Even if you are anyone of the above, you can still participate / contribute. 🥳
-
-
 <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--lGJu31oG--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
 
 
 
-On participating in hacktober fest and being in the first `40000` contributors to open pull requests, you get:
+## On participating in hacktober fest and being in the first `40000` contributors to open pull requests, you get:
 - Either a tree planted in your name
 - Or a hacktober fest T-Shirt
 
 ## What to contribute? 🤔
 
-Literally anything, including 
-- your `name`,
-- some `code`,
-- a `link to a youtube video`
-- a `link to a great website`
-- a `link to a great article`
-- some `useful info`,
-- some `project of yours` etc.
+Add a `data structure` or an `algorithm` with proper language category.
+For example: I have added a linked list and its related operations in C++ folder.
 
 
 ## How to contribute? 🤝
 
 - `Fork` this repo.
-- `Write into a file` of proper category: <br/> For example, if you're interested in writing your name, go to `names` folder. If a folder for your category doesnot exist, create a folder for that category with a proper name.
+- `Write into a file` of proper category: <br/> 
 - `Push the changes`with commit messages on whatever you added.
 - `Compare And Pull Request`
-- Wait for me to `review` and `merge` your contribution.
+-  Wait for me to `review` and `merge` your contribution.
 
 ## How to make a pull request? (for first timers - beginners)
 
