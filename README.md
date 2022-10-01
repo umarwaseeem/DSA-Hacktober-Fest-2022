@@ -2,7 +2,7 @@
 
 ### `Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors.`
 
-
+Do drop a follow if you like my work 😀 
 
 This is a repository to participate in hacktober fest 2022 and learn about using github as an open source tool.
 
