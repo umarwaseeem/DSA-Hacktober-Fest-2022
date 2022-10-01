@@ -3,7 +3,7 @@
 - `Fork` this repo.
 - `Write into a file` of proper category: <br/> 
 - `Push the changes`with commit messages on whatever you added.
-- `Compare And Pull Request`
+- `Compare And Pull Request` with proper description and title.
 -  Wait for me to `review` and `merge` your contribution.
 
 ## How to make a pull request? (for first timers - beginners)
