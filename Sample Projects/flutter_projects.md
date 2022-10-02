@@ -8,3 +8,6 @@ https://github.com/Umar-Waseem/Movie-App-Flutter
 
 ## 3: Voting system app using Flutter & Firebase
 https://github.com/baimamboukar/voting_system_app
+
+## 4: Inshort news app using Flutter and APIs
+https://github.com/Aihrarshaikh/Blimp
