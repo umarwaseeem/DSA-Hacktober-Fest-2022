@@ -2,49 +2,47 @@ class Solution
 {
     public:
     //Function to find the maximum profit and the number of jobs done.
-    
-    static bool myComp(Job j1, Job j2)
-    {
-        if(j1.profit==j2.profit)
-            return j1.dead>j2.dead;
-            
-        return j1.profit>j2.profit;
-    }
-     
     vector<int> JobScheduling(Job arr[], int n) 
     { 
-        // your code here
-        int jobs=0;
-        int totalProfit=0;
-        
-        bool schedule[n];
-        
-        for(int i=0; i<n; i++)
-            schedule[i]=0;
-        
-        sort(arr, arr+n, myComp);
+        multimap<int, int, greater<int>>mp;//profit->deadline
+        int maxi=INT_MIN;
         
         for(int i=0; i<n; i++)
         {
-            int j=arr[i].dead;
-            j--;
-            
-            while(j>=0)
+            mp.insert({arr[i].profit, arr[i].dead});
+            maxi=max(maxi, arr[i].dead);
+        }
+        
+        
+        int k=0;
+        int cnt=0;
+        int profit=0;
+        bool avail[maxi+1];
+        
+        for(int i=0; i<=maxi; i++)
+            avail[i]=false;
+        
+        avail[0]=true;
+        
+        for(auto it:mp)
+        {
+            int k=it.second;
+            while(k)
             {
-                if(schedule[j]==0)
+                if(avail[k]==false)
                 {
-                    totalProfit+=arr[i].profit;
-                    jobs++;
-                    schedule[j]=1;
+                    avail[k]=true;
+                    profit+=it.first;
+                    cnt++;
                     break;
                 }
-                j--;
+                k--;
             }
         }
         
         vector<int>ans;
-        ans.push_back(jobs);
-        ans.push_back(totalProfit);
+        ans.push_back(cnt);
+        ans.push_back(profit);
         
         return ans;
     } 
