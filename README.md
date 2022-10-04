@@ -4,8 +4,8 @@
 
 <div align = "center" >
 
-![GitHub followers](https://img.shields.io/github/followers/Umar-Waseem?color=dark%20green&label=Follow%20On%20Github&style=for-the-badge)
 
+<a href = "https://github.com/Umar-Waseem"> <img src = "https://img.shields.io/github/followers/Umar-Waseem?color=dark%20green&label=Follow%20On%20Github&style=for-the-badge" /></a>
 
 
 
