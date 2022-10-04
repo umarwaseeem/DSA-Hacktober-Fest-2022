@@ -1,5 +1,26 @@
-# Hacktober-Fest-2022 💻👩‍💻🚀
+<h1 align="center">Hacktober-Fest-2022 💻👩‍💻🚀</h1>
 
+
+
+<div align = "center" >
+
+![GitHub followers](https://img.shields.io/github/followers/Umar-Waseem?color=dark%20green&label=Follow%20On%20Github&style=for-the-badge)
+
+
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Umar-Waseem/DSA-Hacktober-Fest-2022?color=dark%20green&label=Stars%E2%AD%90&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Umar-Waseem/DSA-Hacktober-Fest-2022?color=yellow&label=FORKS🍴&style=for-the-badge)
+
+![GitHub contributors](https://img.shields.io/github/contributors/Umar-Waseem/DSA-Hacktober-Fest-2022?label=Contributors%20%F0%9F%91%91)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Umar-Waseem/DSA-Hacktober-Fest-2022?color=red&label=Pull%20Requests)
+![GitHub issues](https://img.shields.io/github/issues/Umar-Waseem/DSA-Hacktober-Fest-2022?label=Issues)
+
+![GitHub top language](https://img.shields.io/github/languages/top/Umar-Waseem/DSA-Hacktober-Fest-2022?color=green)
+![GitHub language count](https://img.shields.io/github/languages/count/Umar-Waseem/DSA-Hacktober-Fest-2022?label=No%20Of%20Languages&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Umar-Waseem/DSA-Hacktober-Fest-2022?label=Repo%20Size)
+</div>
 
 - Follow on Linkedin: <a href="https://www.linkedin.com/in/umarwaseem/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
 
@@ -81,5 +102,9 @@ Contributing for the first time? I got you 😀
 <a href="https://github.com/Umar-Waseem/DSA-Hacktober-Fest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Umar-Waseem/DSA-Hacktober-Fest-2022" />
 </a>
+
+
+
+
 
 
