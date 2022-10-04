@@ -57,6 +57,6 @@ result[m:, m:] = p1 + p5 - p3 - p7
   2. Strassen's Multiplication :  $O(n^(2.807)$
 
 ## Plotting Time Complexities 
- ![image]("plotting.jpg")
+ ![image]("https://github.com/Sreetama2001/DSA-Hacktober-Fest-2022/blob/main/Python/Matrix_Multiplication/plotting.jpg")
  
 Credits : [geeks for geeks](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
